@@ -1,0 +1,40 @@
+.img-size{
+    max-width: 80px; 
+}
+.margin-top{
+    margin-bottom:10px;
+}
+.brground{
+    margin-top:14px;
+}
+.hover-item{
+    color: #8a8e94;
+    font-size: 1.2rem;
+}
+.hover-item:hover{
+    color:#69BB7E;
+}
+.carousel-height{
+    height:80vh;
+    width:98.6vw;
+    background-color: #EFEFEF;
+}
+.img-height{
+    height:80vh;
+}
+.carousel-phase{
+    width:35vw;
+}
+.circle-img{
+    max-width:200px;
+}
+
+.pop-ico{
+    top:5px;
+    right:22px;
+}
+@media all and (max-width: 995px) {
+    #mobile-function{
+        display:none;
+    }
+}
